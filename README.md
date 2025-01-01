@@ -18,21 +18,32 @@ Looking to jumpstart your journey as a cybersecurity professional? This course w
 
 ## Content
 
-| Item                                                                                       | Description                                                   |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| Introduction                                                                               | Practical cybersecurity fundamentals. 1m 58s                  |
-| Lesson 1: Security Principles.                                                             | x7 lectures incl. Module 1: Cybersecurity fundamentals intro. |
-| Lesson 2: Business Coninuity (BC), Disaster Recovery (DR), and Incident Response Concepts. | x4 lectures incl. Understanding business continuity (BC).     |
-| Lesson 3: Access Cntrol Concepts.                                                          | x7 lectures incl. Understanding physical access controls.     |
-| Lesson 4: Network Security.                                                                | x6 lectures incl. Understanding computer networking.          |
-| ???                                                                                        | ???                                                           |
-| ????                                                                                       | ????                                                          |
-| ????                                                                                       | ????                                                          |
-| ????                                                                                       | ???                                                           |
-| ???                                                                                        | ???                                                           |
-| ???                                                                                        | ???                                                           |
-| ???                                                                                        | ???                                                           |
-| ???                                                                                        | ???                                                           |
+| Item                                                                                       | Description                                                                                                     |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| Introduction                                                                               | Practical cybersecurity fundamentals. 1m 58s.                                                                   |
+| Lesson 1: Security Principles.                                                             | x7 lectures incl. Module 1: Cybersecurity fundamentals intro.                                                   |
+| Lesson 2: Business Coninuity (BC), Disaster Recovery (DR), and Incident Response Concepts. | x4 lectures incl. Understanding business continuity (BC).                                                       |
+| Lesson 3: Access Cntrol Concepts.                                                          | x7 lectures incl. Understanding physical access controls.                                                       |
+| Lesson 4: Network Security.                                                                | x6 lectures incl. Understanding computer networking.                                                            |
+| Lesson 5: Security Oporations.                                                             | x6 lectures incl. Understanding data security.                                                                  |
+| Lesson 6: Software Defined Networking and Infrastructure as Code.                          | x6 lectures incl. Software defined networking security.                                                         |
+| Lesson 7: Cryptography.                                                                    | x8 lectures incl. Introduction cryptography and cryptanalysis.                                                  |
+| Lesson 8: AAA, Identity Management, Network Visibility, and Segmentation.                  | x5 lectures incl. Introducing AAA and identity management.                                                      |
+| Lesson 9: Incident Response Fundamentals.                                                  | x10 lectures incl. Module 2: Incident response, digital forensics, and threat hunting introduction.             |
+| lesson 10: Threat Hunting Fundamentals.                                                    | x4 lectures incl. Introducing the threat hunting process.                                                       |
+| Lesson 11: Digital Forensics.                                                              | x7 lectures incl. introducing reverse engineering.                                                              |
+| Lesson 12: Introduction to Security Penetration Testing and Bug Hunting.                   | x7 lectures incl. Module 3: Ethical hacking, prenetration testing, and bug hunting introduction.                |
+| Passive Reconnaissance and OSINT.                                                          | x8 lectures incl. Understanding information gathering and vulnerability identification.                         |
+| Lesson 14: Active Reconnaissance, Enumeration and Scanning.                                | x6 lectures incl. Introduction to host and service enumeration.                                                 |
+| Lesson 15: Exploiting Systems and Aplications.                                             | x8 lectures incl. Performing on-path attacks.                                                                   |
+| Lesson 16: Post Exploitation Techniques and Reporting.                                     | x7 lectures incl. Avoiding detection and evading security tools.                                                |
+| Lesson 17: Cloud Security Concepts.                                                        | x6 lectures incl. Module 4: Cloud, DevOps and IoT security introduction.                                        |
+| Lesson 18: DevSecOps.                                                                      | x3 lectures incl. Introducing DevSecOps.                                                                        |
+| Lesson 19: IoT Security.                                                                   | x4 lectures incl. Introducing IoT concepts.                                                                     |
+| Lesson 20: Introduction to AI Security.                                                    | x6 lectures incl. Module 5: AI Security, Ethics and Privacy: Balancing Innovation with Protection Introduction. |
+| Lesson 21: A Deep Dive into the Different Types of AI Threats.                             | x6 lectures incl. Exploring data poisoning attacks.                                                             |
+| Lesson 22: Principles of Secure AI Development.                                            | x8 lectures incl. Exploring the secure AI development lifecycle.                                                |
+| Summary: Practival Cybersecuriyt Fundamentals.                                             | A summary.                                                                                                      |
 
 ### Resources
 
